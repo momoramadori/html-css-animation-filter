@@ -1,1 +1,1 @@
-#16 : Intro a transition & animations in CSS.
+#16 : Intro a transition & animations in CSS
